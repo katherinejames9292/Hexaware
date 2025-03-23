@@ -153,7 +153,7 @@ public class Final {
                 case 3:
                     return;
                 default:
-                    System.out.println("❌ Invalid choice!");
+                    System.out.println(" Invalid choice!");
             }
         }
     }
